@@ -235,4 +235,4 @@ This repository serves as the official landing page for Blockify. The software i
 **Get the most recent version of Blockify today!**
 
 ---
-**Last updated:** 2026-09-13 22:17:17 UTC
+**Last updated:** 2026-09-14 00:52:20 UTC
